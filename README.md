@@ -15,3 +15,11 @@ que-4.js -> containing fourth question and its solution.
 que-5.js -> containing fifth question and its solution. Created a custom map function which tranform the array.
 
 que-6.js -> containing question number 6 and its solution. Question is all about creating a custom filter fucntion
+
+que-7.js -> Question number 7 and its solution.
+
+que-8.js -> Question number 8 and its solution.
+
+que-9.js -> Question number 9 and its solution.
+
+que-10.js -> Question number 10 and its solution.
